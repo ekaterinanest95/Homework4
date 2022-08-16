@@ -1,0 +1,15 @@
+D:\Documents\Homework4\hometask\Ex25\bin\Debug\net6.0\Ex25.exe
+D:\Documents\Homework4\hometask\Ex25\bin\Debug\net6.0\Ex25.deps.json
+D:\Documents\Homework4\hometask\Ex25\bin\Debug\net6.0\Ex25.runtimeconfig.json
+D:\Documents\Homework4\hometask\Ex25\bin\Debug\net6.0\Ex25.dll
+D:\Documents\Homework4\hometask\Ex25\bin\Debug\net6.0\Ex25.pdb
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.csproj.AssemblyReference.cache
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfoInputs.cache
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.AssemblyInfo.cs
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.csproj.CoreCompileInputs.cache
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.dll
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\refint\Ex25.dll
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.pdb
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\Ex25.genruntimeconfig.cache
+D:\Documents\Homework4\hometask\Ex25\obj\Debug\net6.0\ref\Ex25.dll
